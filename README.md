@@ -282,13 +282,17 @@ pip install -r requirements.txt
 
 # 🚀 Workflow
 
-1️⃣ Launch application
+
+
+1️⃣Launch application
 2️⃣ Upload dataset
 3️⃣ Analyze data visualization
 4️⃣ Apply preprocessing
 5️⃣ Select ML algorithm
 6️⃣ Train model
 7️⃣ Evaluate results
+
+
 
 ---
 
