@@ -284,6 +284,7 @@ pip install -r requirements.txt
 
 
 
+
 1️⃣Launch application
 2️⃣ Upload dataset
 3️⃣ Analyze data visualization
@@ -291,6 +292,8 @@ pip install -r requirements.txt
 5️⃣ Select ML algorithm
 6️⃣ Train model
 7️⃣ Evaluate results
+
+
 
 
 
