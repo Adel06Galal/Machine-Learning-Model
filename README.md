@@ -281,9 +281,7 @@ pip install -r requirements.txt
 ---
 
 # 🚀 Workflow
-
-
-
+```text
 
 1️⃣Launch application
 2️⃣ Upload dataset
@@ -293,10 +291,7 @@ pip install -r requirements.txt
 6️⃣ Train model
 7️⃣ Evaluate results
 
-
-
-
-
+```
 ---
 
 # 🔮 Future Improvements
