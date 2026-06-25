@@ -31,8 +31,6 @@ The application allows users to:
 - Train multiple ML models
 - Evaluate performance
 
-All without writing machine learning code manually.
-
 ---
 
 # ✨ Features
