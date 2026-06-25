@@ -226,7 +226,3 @@ AI Student | C++ Developer | Machine Learning Enthusiast
 ---
 
 ⭐ If you like this project, give it a star!
-
-
-ده جاهز تحطه على GitHub وهيطلع بشكل احترافي.
-```
