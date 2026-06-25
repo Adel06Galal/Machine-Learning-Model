@@ -166,7 +166,7 @@ Imbalanced-learn
 Clone the repository:
 
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
+git clone https://github.com/Adel06Galal/REPOSITORY.git
 ````
 
 Install requirements:
